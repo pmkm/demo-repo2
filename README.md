@@ -1,3 +1,3 @@
 # Demo 2
 
-Some text, test connection with github
+Some text, test if the dns works.
